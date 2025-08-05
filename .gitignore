@@ -1,2 +1,8 @@
 .env
 3_API_googleBooks.ipynb
+dataset_olist/olist_customers_dataset.csv
+dataset_olist/olist_order_items_dataset.csv
+dataset_olist/olist_orders_dataset.csv
+dataset_olist/olist_sellers_dataset.csv
+dataset_olist/olist_products_dataset.csv
+
